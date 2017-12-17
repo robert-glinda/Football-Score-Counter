@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Football Score Counter</string>
+    <string name="goal">goal</string>
+    <string name="foul">foul</string>
+    <string name="reset">reset</string>
+    <string name="undo">undo </string>
+    <string name="TeamA">Team A</string>
+    <string name="TeamB">Team B</string>
+    <string name="Goals">Goals</string>
+    <string name="Fouls">Fouls</string>
+
+</resources>
